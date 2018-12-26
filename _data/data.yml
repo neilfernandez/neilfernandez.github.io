@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -72,6 +72,19 @@ education:
 
           - Bullet point
           - Bullet point
+
+achievements:
+    - role: Consultant / Web Developer
+      time: 2016 - Present
+      company: Insum Solutions, New York
+      details: |
+        Describe your role here...
+
+          - Using Oracle APEX with PLSQL, JavaScript, jQuery and CSS backed by an Oracle database to develop custom tailored web based applications for large clients and communicating directly with the client from beginning to end
+          - Working with clients such as Carnival Cruise Lines and many government entities to be involved in developing applications and being a part of the deployment process of our applications from development -> test -> production
+          - Experience working in Agile/Scrum teams and using project managements systems such as JIRA
+          - Taking on the role of project manager / analyst and leading a team of interns to build a geographical insight application. Creating JIRA tickets, doing code review, and enforcing our development methodologies and standards
+          - In charge of weekly TechnoScrums which allow employees to display technologies and tools that can help other employees
 
 experiences:
     - role: Consultant / Web Developer
