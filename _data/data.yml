@@ -38,9 +38,6 @@ sidebar:
       - item: Snowboarding
         link:
 
-      - item: Cooking
-        link:
-
 career-profile:
     title: Career Profile
     summary: |
@@ -80,118 +77,117 @@ education:
           - Bullet point
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Consultant / Web Developer
+      time: 2016 - Present
+      company: Insum Solutions, New York
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        Describe your role here...
 
           - Bullet point
           - Bullet point
+          - Using Oracle APEX with PLSQL, JavaScript, jQuery and CSS backed by an Oracle database to develop custom tailored web based applications for large clients and communicating directly with the client from beginning to end
+          - Working with clients such as Carnival Cruise Lines and many government entities to be involved in developing applications and being a part of the deployment process of our applications from development -> test -> production
+          - Experience working in Agile/Scrum teams and using project managements systems such as JIRA
+          - Taking on the role of project manager / analyst and leading a team of interns to build a geographical insight application. Creating JIRA tickets, doing code review, and enforcing our development methodologies and standards
+          - In charge of weekly TechnoScrums which allow employees to display technologies and tools that can help other employees
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: EOP Computer Science Tutor, SUNY Plattsburgh EOP 
+      time: Aug 2015 - May 2016
+      company: SUNY Plattsburgh EOP, New York
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Describe your role here...
 
-          - Bullet point
-          - Bullet point
+          - Explaining complex concepts using easy-to-understand terms to EOP students
+          - Filling out evaluations and reports to keep track of student progress
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Student Helpdesk Support Technician
+      time: Aug 2015 - Dec 2015
+      company: SUNY Plattsburgh Help Desk, Plattsburgh
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Describe your role here...
 
-          - Bullet point
-          - Bullet point
+          - Diagnose, troubleshoot and resolve a broad range of issues with software, hardware and connectivity
+          - Document step by step tasks being performed and solutions
+
+    - role: Student Network Field Tech
+      time: May 2014 - Jan 2016
+      company: SUNY Plattsburgh Network Operations​, Plattsburgh
+      details: |
+        Describe your role here...
+
+          - Programming switches, changing IP addresses, and diagnosing and fixing broad ranges of hardware
+          - Managing databases, installing patch panels and switches, running cable, terminating jacks, and cable testing using a certifier
+          - Projects include - programming a Raspberry Pi to use port knocking for secure SSH access using iptables
+
+    - role: Software Tester
+      time: Sep 2013 - Jan 2017
+      company: uTest, Online
+      details: |
+        Describe your role here...
+
+          - Exploratory and use case testing on iPhone and web applications
+          - Exploratory testing included exploring an app in hopes of it crashing, and reporting the crash log if it occurs
+
+    - role: Teaching Assistantships
+      time: Aug 2013 - Dec 2014
+      company: SUNY Plattsburgh, New York
+      details: |
+        Describe your role here...
+
+          - Teaching assistant for CSC217 Discrete Mathematics (Aug 2013) and CSC221 Introduction to Programming - Python (Aug 2014)
+          - (CSC221) Teaching Assistant for Doctor Jan Plaza, Chair of the Computer Science Department, and Doctor Guitierrez
 
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Some recent projects I have worked on. I have a handful of other websites that I have created for local businesses in the past, but some of them are no longer existant.
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Robert Hugus Brazilian Jiu Jitsu
+        link: "#roberthugusbjj.com"
+        tagline: "A website that I created for a local Brazilian Jiu Jitsu club."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+# publications:
+#     title: Publications
+#     intro: |
+#       You can list your publications in this section. Lorem ipsum dolor sit
+#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#       bibendum fringilla a eu lectus.
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+#     papers:
+#       - title: The Art of Computer Programming
+#         authors: Donald E. Knuth
+#         conference: Addison-Wesley, 1968
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-
-    papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+#       - title: A syntax directed compiler for Algol 60
+#         authors: Edgar T. Irons
+#         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: PL/SQL
+        level: 90%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
+      - name: Python
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Javascript
+        level: 90%
+
+      - name: HTML5 & CSS
+        level: 80%
+
+      - name: RESTful Web Services
+        level: 65%
+
+      - name: Consulting
+        level: 80%
 
 # footer: >
     # Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
