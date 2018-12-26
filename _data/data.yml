@@ -83,8 +83,6 @@ experiences:
       details: |
         Describe your role here...
 
-          - Bullet point
-          - Bullet point
           - Using Oracle APEX with PLSQL, JavaScript, jQuery and CSS backed by an Oracle database to develop custom tailored web based applications for large clients and communicating directly with the client from beginning to end
           - Working with clients such as Carnival Cruise Lines and many government entities to be involved in developing applications and being a part of the deployment process of our applications from development -> test -> production
           - Experience working in Agile/Scrum teams and using project managements systems such as JIRA
@@ -144,7 +142,7 @@ projects:
 
     assignments:
       - title: Robert Hugus Brazilian Jiu Jitsu
-        link: "#roberthugusbjj.com"
+        link: "www.roberthugusbjj.com"
         tagline: "A website that I created for a local Brazilian Jiu Jitsu club."
 
 # publications:
