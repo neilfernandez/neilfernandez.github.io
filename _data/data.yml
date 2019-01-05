@@ -78,8 +78,6 @@ achievements:
       time: 2016 - Present
       company: Insum Solutions, New York
       details: |
-        # Describe your role here...
-
           - Using Oracle APEX with PLSQL, JavaScript, jQuery and CSS backed by an Oracle database to develop custom tailored web based applications for large clients and communicating directly with the client from beginning to end
           - Working with clients such as Carnival Cruise Lines and many government entities to be involved in developing applications and being a part of the deployment process of our applications from development -> test -> production
           - Experience working in Agile/Scrum teams and using project managements systems such as JIRA
@@ -91,8 +89,6 @@ experiences:
       time: 2016 - Present
       company: Insum Solutions, New York
       details: |
-        # Describe your role here...
-
           - Using Oracle APEX with PLSQL, JavaScript, jQuery and CSS backed by an Oracle database to develop custom tailored web based applications for large clients and communicating directly with the client from beginning to end
           - Working with clients such as Carnival Cruise Lines and many government entities to be involved in developing applications and being a part of the deployment process of our applications from development -> test -> production
           - Experience working in Agile/Scrum teams and using project managements systems such as JIRA
@@ -103,8 +99,6 @@ experiences:
       time: Aug 2015 - May 2016
       company: SUNY Plattsburgh EOP, New York
       details: |
-        # Describe your role here...
-
           - Explaining complex concepts using easy-to-understand terms to EOP students
           - Filling out evaluations and reports to keep track of student progress
 
@@ -112,8 +106,6 @@ experiences:
       time: Aug 2015 - Dec 2015
       company: SUNY Plattsburgh Help Desk, Plattsburgh
       details: |
-        # Describe your role here...
-
           - Diagnose, troubleshoot and resolve a broad range of issues with software, hardware and connectivity
           - Document step by step tasks being performed and solutions
 
@@ -121,8 +113,6 @@ experiences:
       time: May 2014 - Jan 2016
       company: SUNY Plattsburgh Network Operations​, Plattsburgh
       details: |
-        # Describe your role here...
-
           - Programming switches, changing IP addresses, and diagnosing and fixing broad ranges of hardware
           - Managing databases, installing patch panels and switches, running cable, terminating jacks, and cable testing using a certifier
           - Projects include - programming a Raspberry Pi to use port knocking for secure SSH access using iptables
@@ -131,8 +121,6 @@ experiences:
       time: Sep 2013 - Jan 2017
       company: uTest, Online
       details: |
-        # Describe your role here...
-
           - Exploratory and use case testing on iPhone and web applications
           - Exploratory testing included exploring an app in hopes of it crashing, and reporting the crash log if it occurs
 
@@ -140,8 +128,6 @@ experiences:
       time: Aug 2013 - Dec 2014
       company: SUNY Plattsburgh, New York
       details: |
-        # Describe your role here...
-
           - Teaching assistant for CSC217 Discrete Mathematics (Aug 2013) and CSC221 Introduction to Programming - Python (Aug 2014)
           - (CSC221) Teaching Assistant for Doctor Jan Plaza, Chair of the Computer Science Department, and Doctor Guitierrez
 
