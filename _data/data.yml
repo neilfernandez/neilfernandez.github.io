@@ -32,10 +32,14 @@ sidebar:
       #   level: Professional
 
     interests:
+      - item: Web Development / Software Engineering
+
       - item: Brazilian Jiu Jitsu
         link: https://www.roberthugusbjj.com
 
-      - item: Brazilian Jiu Jitsu
+      - item: Cooking
+
+      
 
 # career-profile:
 #     title: Career Profile
