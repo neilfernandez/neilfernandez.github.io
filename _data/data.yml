@@ -151,9 +151,9 @@ projects:
       Some recent projects I have worked on. I have a handful of other websites that I have created for local businesses in the past, but some of them are no longer existant.
 
     assignments:
-      - title: Oracle APEX Google Places Autocomplete Plugin
+      - title: Google Places Autocomplete Plugin
         link: "https://github.com/insum-labs/apex-plugin-google-places-autocomplete"
-        tagline: "A plugin that I created for Oracle APEX to use Google Places Autocomplete API to integrate with Oracle APEX for easy form filling and developing."
+        tagline: "A plugin that I created to integrate Google Places Autocomplete API with Oracle APEX for easy form filling and developing."
         
       - title: Robert Hugus Brazilian Jiu Jitsu
         link: "https://www.roberthugusbjj.com"
