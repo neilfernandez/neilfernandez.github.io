@@ -20,7 +20,7 @@ sidebar:
     gitlab:
     bitbucket:
     twitter: '@neilbfernandez'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    stack-overflow: 10950973/neil-fernandez
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
@@ -82,12 +82,6 @@ education:
           - Bullet point
 
 achievements:
-    - role: Blue Belt in Brazilian Jiu Jitsu
-      time: Dec 2016
-      company: Evolution Grappling Academy
-      details: |
-          Awarded my blue belt in Brazilian Jiu Jitsu.
-
     - role: Computer Science Department Outstanding Graduate Award
       time: May 2016
       company: SUNY Plattsburgh
