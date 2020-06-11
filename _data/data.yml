@@ -119,7 +119,7 @@ experiences:
           - In charge of weekly TechnoScrums which allow employees to display technologies and tools that can help other employees
 
     - role: Brazilian Jiu Jitsu Co-instuctor
-      time: Jan 2019 - Present
+      time: Jan 2019 - August 2019
       company: Robert Hugus Brazilian Jiu Jitsu, New York
       details: |
           - Assisting Head Coach Robert Hugus in instructing and fulfilling teaching duties in case of his absence.
@@ -169,10 +169,14 @@ projects:
       - title: Google Places Autocomplete Plugin
         link: "https://github.com/insum-labs/apex-plugin-google-places-autocomplete"
         tagline: "A plugin that I created to integrate Google Places Autocomplete API with Oracle APEX for easy form filling and developing."
-        
+
+      - title: Paulo Santana Brazilian Jiu Jitsu
+        link: "https://www.paulosantanabjj.com/"
+        tagline: "A website that I created for our local Brazilian Jiu Jitsu academy."
+
       - title: Robert Hugus Brazilian Jiu Jitsu
         link: "https://www.roberthugusbjj.com"
-        tagline: "A website that I created for a local Brazilian Jiu Jitsu club."
+        tagline: "A website that I created for our local Brazilian Jiu Jitsu academy."
 
 # publications:
 #     title: Publications
