@@ -43,14 +43,14 @@ sidebar:
 
       
 
-# career-profile:
-#     title: Career Profile
-#     summary: |
-#       Summarise your career here lorem ipsum dolor sit amet, consectetuer
-#       adipiscing elit. You can [download this free resume/CV template here]().
-#       Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-#       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-#       Donec quam felis, ultricies nec, pellentesque eu.
+career-profile:
+    title: Career Profile
+    summary: |
+      Developer / Consultant with industry experience building enterprise web 
+      applications via Oracle APEX all backed by the Oracle database mainly using 
+      Agile software development methodologies. Specializing in PL/SQL, Javascript, 
+      RESTful Web Services, Oracle technologies, and third party integrations via 
+      various languages.
 
 #       Second paragraph if required.
 
@@ -108,9 +108,19 @@ achievements:
 
 
 experiences:
+    - role: Senior IT Engineer
+      time: Jan 2021 - Present
+      company: ngena, Remote
+      details: |
+          - Responsible for the evolution, development, maintenence and support of ngena IT products viz. CPQ (Telco Customer Price Quote) 
+          - Owned and supported Dev/Ops - rollouts and deployments utilizing Jenkins and Liquibase
+          - Continuously improving the product and related data model for ever changing business needs following SAFe (Scaled Agile Framework) protocols
+          - Working with various teams to create API's and integrate technologies such as Elasticsearch, Logstash, Kibana, Okta
+          - Introducced/followed programming standards/methodologies to enhance efficiency, scalability, and maintainability
+
     - role: Consultant / Web Developer
-      time: Jan 2016 - Present
-      company: Insum Solutions, New York
+      time: Jan 2016 - Jan 2021
+      company: Insum Solutions, New York / Remote
       details: |
           - Using Oracle APEX with PLSQL, JavaScript, jQuery and CSS backed by an Oracle database to develop custom tailored web based applications for large clients and communicating directly with the client from beginning to end
           - Working with clients such as Carnival Cruise Lines and many government entities to be involved in developing applications and being a part of the deployment process of our applications from development -> test -> production
