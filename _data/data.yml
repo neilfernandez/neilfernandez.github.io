@@ -113,10 +113,10 @@ experiences:
       company: ngena, Remote
       details: |
           - Responsible for the evolution, development, maintenence and support of ngena IT products viz. CPQ (Telco Customer Price Quote) 
-          - Owned and supported Dev/Ops - rollouts and deployments utilizing Jenkins and Liquibase
+          - Own and support Dev/Ops - rollouts and deployments utilizing Jenkins and Liquibase
           - Continuously improving the product and related data model for ever changing business needs following SAFe (Scaled Agile Framework) protocols
           - Working with various teams to create API's and integrate technologies such as Elasticsearch, Logstash, Kibana, Okta
-          - Introducced/followed programming standards/methodologies to enhance efficiency, scalability, and maintainability
+          - Introduce/following programming standards/methodologies to enhance efficiency, scalability, and maintainability
 
     - role: Consultant / Web Developer
       time: Jan 2016 - Jan 2021
