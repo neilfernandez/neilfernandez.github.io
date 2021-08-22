@@ -108,8 +108,14 @@ achievements:
 
 
 experiences:
+    - role: Senior Member of Technical Staff
+      time: Aug 2021 - Present
+      company: Oracle, Remote
+      # details: |
+      #     - 
+
     - role: Senior IT Engineer
-      time: Jan 2021 - Present
+      time: Jan 2021 - Aug 2021
       company: ngena, Remote
       details: |
           - Responsible for the evolution, development, maintenence and support of ngena IT products viz. CPQ (Telco Customer Price Quote) 
