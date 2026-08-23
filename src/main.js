@@ -1,5 +1,7 @@
 import "./styles.css";
 import { resume } from "./data.js";
+import profileImageUrl from "../assets/images/profile.jpg";
+import systemsImageUrl from "../assets/images/systems-editorial.jpg";
 
 const app = document.querySelector("#app");
 
@@ -52,7 +54,7 @@ function renderPage() {
         </div>
 
         <figure class="hero-portrait">
-          <img src="/assets/images/profile.jpg" alt="Illustrated portrait of Neil Fernandez wearing an Oracle APEX shirt" width="3000" height="3000">
+          <img src="${profileImageUrl}" alt="Illustrated portrait of Neil Fernandez wearing an Oracle APEX shirt" width="3000" height="3000">
         </figure>
       </section>
 
@@ -69,7 +71,7 @@ function renderPage() {
         </header>
 
         <div class="systems-visual reveal">
-          <img src="/assets/images/systems-editorial.jpg" alt="Abstract connected layers representing software systems, databases, and delivery infrastructure" width="1672" height="941" loading="lazy">
+          <img src="${systemsImageUrl}" alt="Abstract connected layers representing software systems, databases, and delivery infrastructure" width="1672" height="941" loading="lazy">
         </div>
 
         <div class="query-block reveal" aria-label="Career layer query">
