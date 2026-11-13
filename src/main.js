@@ -143,7 +143,7 @@ ORDER BY connective_value DESC;</code></pre>
       <section class="projects-section" id="projects">
         <header class="section-intro reveal">
           <h2>Selected work</h2>
-          <p>Open-source product work and community projects built for real users.</p>
+          <p>Open-source product work, client websites, and community projects built for real users.</p>
         </header>
 
         <div class="project-layout">

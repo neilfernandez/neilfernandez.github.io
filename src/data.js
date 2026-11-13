@@ -118,6 +118,13 @@ export const resume = {
       type: "Community website",
       link: "https://www.roberthugusbjj.com",
       tagline: "A website that helps a local martial arts community reach new students."
+    },
+    {
+      title: "M&H Distributors",
+      type: "Client website",
+      link: "https://mhdistributors.com/",
+      tagline:
+        "Designed, built, and launched the website for an automotive detailing supplies and chemical distributor."
     }
   ],
   capabilities: [

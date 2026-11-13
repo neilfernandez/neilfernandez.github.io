@@ -591,14 +591,17 @@ main,
     url("/assets/images/systems-editorial.jpg") center / cover;
 }
 
+.project-link:last-child:nth-child(even) {
+  grid-column: 1 / -1;
+}
+
 .project-link:hover {
   z-index: 1;
   transform: translateY(-5px);
   border-color: var(--accent);
 }
 
-.project-link-2:hover,
-.project-link-3:hover {
+.project-link:not(.project-link-1):hover {
   background: var(--surface-strong);
 }
 
@@ -615,8 +618,7 @@ main,
   line-height: 0.98;
 }
 
-.project-link-2 h3,
-.project-link-3 h3 {
+.project-link:not(.project-link-1) h3 {
   font-size: clamp(25px, 2.5vw, 35px);
 }
 
