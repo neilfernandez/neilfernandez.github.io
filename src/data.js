@@ -101,18 +101,18 @@ export const resume = {
   ],
   projects: [
     {
-      title: "Google Places Autocomplete Plugin",
-      type: "Open source / Oracle APEX",
-      link: "https://github.com/insum-labs/apex-plugin-google-places-autocomplete",
-      tagline:
-        "An Oracle APEX plugin that brings Google Places Autocomplete into application forms."
-    },
-    {
       title: "Pool Control Card",
       type: "Open source / Home Assistant",
       link: "https://github.com/neilfernandez/pool-control-card",
       tagline:
         "Built a Home Assistant pool dashboard with live equipment controls, a visual configuration editor, and installation through HACS custom repositories."
+    },
+    {
+      title: "Google Places Autocomplete Plugin",
+      type: "Open source / Oracle APEX",
+      link: "https://github.com/insum-labs/apex-plugin-google-places-autocomplete",
+      tagline:
+        "An Oracle APEX plugin that brings Google Places Autocomplete into application forms."
     },
     {
       title: "Paulo Santana Brazilian Jiu Jitsu",
