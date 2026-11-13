@@ -108,6 +108,13 @@ export const resume = {
         "An Oracle APEX plugin that brings Google Places Autocomplete into application forms."
     },
     {
+      title: "Pool Control Card",
+      type: "Open source / Home Assistant",
+      link: "https://github.com/neilfernandez/pool-control-card",
+      tagline:
+        "Built a Home Assistant pool dashboard with live equipment controls, a visual configuration editor, and installation through HACS custom repositories."
+    },
+    {
       title: "Paulo Santana Brazilian Jiu Jitsu",
       type: "Local business website",
       link: "https://www.paulosantanabjj.com/",
